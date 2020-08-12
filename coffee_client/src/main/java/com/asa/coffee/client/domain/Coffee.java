@@ -15,5 +15,4 @@ public class Coffee {
     private String typeName;
     private int hardnessRate;
     private Date productionDate;
-
 }
