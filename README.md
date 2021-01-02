@@ -1,3 +1,3 @@
 # microservice-demo
 
-Sample Project for Microservices with Spring
+Sample Project for Microservices with Spring Boot
